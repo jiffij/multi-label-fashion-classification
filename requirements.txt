@@ -1,0 +1,9 @@
+timm
+pandas
+Pillow
+torch
+torchvision
+numpy
+torchsummary
+huggingface-hub
+transformers
